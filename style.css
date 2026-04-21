@@ -70,9 +70,7 @@ body {
     padding: 30px;
     transition: 0.3s;
     height: 30%;
-    a{
-        margin-left: 61%;
-    }
+    
 }
 
 .card-customs:hover {
@@ -192,9 +190,6 @@ iframe {
     border-radius: 20px; 
     margin-top: 60px; 
     
-    a{
-        margin-left: 80%;
-    }
 } 
 
 /* propos */
